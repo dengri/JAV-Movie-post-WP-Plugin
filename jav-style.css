@@ -1,0 +1,11 @@
+#cover_image_button{
+	background-color:red;
+}
+
+#cover_image, #screenshot_image{
+	width:100%;
+}
+
+.hide_when_no_image{
+	display:none;
+}
